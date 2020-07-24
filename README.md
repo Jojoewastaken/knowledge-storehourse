@@ -1,8 +1,11 @@
-# knowledge-storehourse
-Good websites and resources collected in daily life.\
-偏个人向的知识库，如果对你有帮助的话那就太开心了:wink:   
+# knowledge-storehourse知识仓库
+Good websites and resources collected in daily life.  
+个人向的知识库，用于整理存放学习生活中用到的利器和经验分享。如果你正好探索到这里，也许对你有帮助哦:wink:   
 
-因为我平时还蛮喜欢收集和探索有趣的网站，久而久之浏览器收藏夹和各种笔记软件里堆积太多这类信息了，一直告诫自己要整理要整理，但总是找不到坚持的动力，每次刚开个头，就被拖延症无限期搁置了。希望以建立这个list为契机，好好整理一下自己收集的信息。
+知识需要整理使用让其形成网络，才能发挥其作用哦。如果只是不停地收集却从整理，只会徒增烦恼和焦虑。
+> Cusumerism is bad, materilism is good.  
+> Don't buy stuff for the ske of acquiring things;appreciate the value of the things you already own.
+
 ## 目录  
 [Study](https://github.com/Jojoewastaken/knowledge-storehourse/blob/master/Study/shelf.md)  
 [Work]()  
